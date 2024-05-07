@@ -1,0 +1,1 @@
+This repository was created for practice making todo list applications from dicoding.
